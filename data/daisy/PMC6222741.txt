@@ -1,0 +1,10 @@
+2018 Oct 11;23(10):2605. doi: 10.3390/molecules23102605.
+Insulin Mimetic Properties of Extracts Prepared from Bellis perennis
+Renate Haselgrübler 1, Verena Stadlbauer 2 3, Flora Stübl 4, Bettina Schwarzinger 5 6, Ieva Rudzionyte 7, Markus Himmelsbach 8, Marcus Iken 9, Julian Weghuber 10 11
+Affiliations expand
+PMID: 30314325 PMCID: PMC6222741 DOI: 10.3390/molecules23102605
+Free PMC article
+Abstract
+Diabetes mellitus (DM) and consequential cardiovascular diseases lead to millions of deaths worldwide each year; 90% of all people suffering from DM are classified as Type 2 DM (T2DM) patients. T2DM is linked to insulin resistance and a loss of insulin sensitivity. It leads to a reduced uptake of glucose mediated by glucose transporter 4 (GLUT4) in muscle and adipose tissue, and finally hyperglycemia. Using a fluorescence microscopy-based screening assay we searched for herbal extracts that induce GLUT4 translocation in the absence of insulin, and confirmed their activity in chick embryos. We found that extracts prepared from Bellis perennis (common daisy) are efficient inducers of GLUT4 translocation in the applied in vitro cell system. In addition, these extracts also led to reduced blood glucose levels in chicken embryos (in ovo), confirming their activity in a living organism. Using high-performance liquid chromtaography (HPLC) analysis, we identified and quantified numerous polyphenolic compounds including apigenin glycosides, quercitrin and chlorogenic acid, which potentially contribute to the induction of GLUT4 translocation. In conclusion, Bellis perennis extracts reduce blood glucose levels and are therefore suitable candidates for application in food supplements for the prevention and accompanying therapy of T2DM.
+
+Keywords: Bellis perennis extract; GLUT4 translocation; glucose uptake; hens egg test-chorioallantoic membrane (HET-CAM) assay; insulin mimetic property; type 2 diabetes.
