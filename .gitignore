@@ -9,7 +9,10 @@ __pycache__/
 # VSCode
 .vscode/
 
+# Env and settings
+venv/
 venv-scispacy/
+
 # C extensions
 *.so
 
