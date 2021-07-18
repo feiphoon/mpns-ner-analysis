@@ -1,0 +1,17 @@
+2014 Aug;52(8):951-5. doi: 10.3109/13880209.2013.874461. Epub 2014 Mar 12.
+Isolation of an oleanane-type saponin active from Bellis perennis through antitumor bioassay-guided procedures
+Fatma Pehlivan Karakas 1, Didem Şöhretoğlu, Tibor Liptaj, Michal Štujber, Arzu Ucar Turker, Jozef Marák, İhsan Çalış, Funda Nuray Yalçın
+Affiliations expand
+PMID: 24617777 DOI: 10.3109/13880209.2013.874461
+Abstract
+Context: Bellis perennis L. (Asteraceae) (common daisy) is a herbaceous perennial plant known as a traditional wound herb; it has been used for the treatment of bruises, broken bones, and wounds. Bellis perennis has also been used in the treatment of headache, common cold, stomachache, eye diseases, eczema, skin boils, gastritis, diarrhea, bleeding, rheumatism, inflammation, and infections of the upper respiratory tract in traditional medicine.
+
+Objective: Antitumor activities of different fractions of B. perennis flowers at different concentrations were evaluated and through bioassay-guided fractionation and isolation procedures a saponin derivative (1) was isolated from the active fraction obtained from the n-butanol extract of flowers of the title plant by column chromatography.
+
+Materials and methods: Antitumor activities of different fractions of B. perennis flowers at different concentrations were evaluated using Potato Disc Tumor Induction Bioassay. Structure elucidation of 1 was accomplished by spectroscopic methods [1D- and 2D-NMR, and LC-ESI(APCI)-TOF-MS(MSn)].
+
+Results: The present study showed the antitumor activity of fractions obtained from B. perennis flowers for the first time. The most active fraction showed 99% tumor inhibition at 3000 mg/L. An oleanane-type saponin was isolated through bioassay-guided studies.
+
+Discussion and conclusion: Through antitumoral bioassay-guided fractionation and isolation procedures, 1 was isolated from the active fraction of B. perennis. The detailed NMR data of compound 1 is given for the first time.
+
+Keywords: Asteraceae; common daisy; compositae; potato disc tumor induction bioassay.
