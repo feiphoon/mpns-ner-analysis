@@ -8,7 +8,7 @@ This repo contains the pretrained model comparison notebooks to kick off the pro
 
 ### Virtualenv
 
-This repo was written for Python 3.8.5. This is important as spaCy has some problems running on some newer versions of Python. On Mac, please check your version:
+This repo was written for Python 3.9.8. This is important as spaCy has some problems running on some newer versions of Python. On Mac, please check your version:
 
 ```
 python --version
